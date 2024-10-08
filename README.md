@@ -1,10 +1,7 @@
 Hi there, My name is Nicklas 
 Currently based in Accra, Ghana 🌍  
 
-I thrive at creative problem solving and building user-centric web apps.
-
-My tech stack includes : 
-Typescript / React Native / React-Next-JS / Rive / Figma / Framer.
+I excel at creative problem solving and building user-centric apps.
 
 Software Engineer at 'Build'
 
