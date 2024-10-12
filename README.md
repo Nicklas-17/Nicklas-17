@@ -1,9 +1,7 @@
 Hi there, My name is Nicklas 
 Currently based in Accra, Ghana 🌍  
 
-I excel at creative problem solving and building user-centric apps.
-
-Software Engineer at 'Build'
+Software Engineer at 'Build The Company'
 
 A little more about me...
 
