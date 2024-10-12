@@ -1,5 +1,5 @@
 Hi there, My name is Nicklas 
-Currently based in Accra, Ghana 🌍  
+I am Currently based in Accra, Ghana 🌍  
 
 Software Engineer at 'Build The Company'
 
