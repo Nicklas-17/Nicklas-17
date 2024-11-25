@@ -1,13 +1,9 @@
-Hi there, My name is Nicklas 
-I am Currently based in Accra, Ghana 🌍  
+Currently based in Accra, Ghana 🌍  
 
-Software Engineer at 'Build The Company'
+Senior Software Engineer 
 
-A little more about me...
-
-🔭 I’m currently working on mobile apps (Wahu, WeConvert, Roley AI) <br/>
-🌱 I’m currently learning Go (Fiber) && Cloud Solutions Architecture<br/>
-👯 I’m looking to collaborate on apis, user-centric Apps and Cloud-native solutions !<br/>
-💬 Ask me about anything really Tech, Finance, Fitness..<br/>
-I love connecting with different people so if you want to say hi, let's have a chat 🧠 !<br/>
+🔭 currently leading the development of the Wahu App ( EV Solution ) & Roley.AI <br/>
+🌱 I’m currently learning Golang & Cloud Solutions Architecture<br/>
+👯 I’m looking to collaborate on user-centric Apps and Cloud-native solutions !<br/>
+💬 I love connecting with different people so if you want to say hi, let's have a chat 🧠 !<br/>
  
