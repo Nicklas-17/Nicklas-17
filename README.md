@@ -1,4 +1,4 @@
-Currently based in Accra, Ghana 🌍  
+Currently based in Brussels, Belgium 🌍  
 
 Senior Software Engineer 
 
