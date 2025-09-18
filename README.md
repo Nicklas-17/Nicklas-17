@@ -1,7 +1,8 @@
 Currently based in Brussels, Belgium 🌍  
 
-🔭 led the development of the Wahu App ( EV Solution ) <br/>
-🌱 Current expertise in React Native (Expo) with future expansion in Go & Cloud Solutions Architecture<br/>
-👯 I’m looking to collaborate on user-centric Apps and Cloud-native solutions !<br/>
-💬 I love connecting with different people so if you want to say hi, let's have a chat 🧠 !<br/>
+🔭 led the development of the Wahu ( EV Solution ) App <br/>
+🌱 Currently building the politico pro platform with a great team !<br/>
+💬 A strong passion for Cloud Architecture and development 🧠 !<br/>
+
+
  
